@@ -26,6 +26,7 @@ import (
 	_ "github.com/rclone/rclone/cmd/genautocomplete"
 	_ "github.com/rclone/rclone/cmd/gendocs"
 	_ "github.com/rclone/rclone/cmd/hashsum"
+	_ "github.com/rclone/rclone/cmd/inotify"
 	_ "github.com/rclone/rclone/cmd/link"
 	_ "github.com/rclone/rclone/cmd/listremotes"
 	_ "github.com/rclone/rclone/cmd/ls"
